@@ -1,7 +1,7 @@
-package com.example.SecurityPractise.controller;
+package com.example.SecurityPractiseFormLogin.controller;
 
-import com.example.SecurityPractise.model.User;
-import com.example.SecurityPractise.service.UserService;
+import com.example.SecurityPractiseFormLogin.model.User;
+import com.example.SecurityPractiseFormLogin.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

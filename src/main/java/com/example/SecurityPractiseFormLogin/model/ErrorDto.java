@@ -1,4 +1,4 @@
-package com.example.SecurityPractise.model;
+package com.example.SecurityPractiseFormLogin.model;
 
 import lombok.Data;
 

@@ -1,7 +1,6 @@
-package com.example.SecurityPractise.model;
+package com.example.SecurityPractiseFormLogin.model;
 
 import lombok.Data;
-import org.springframework.http.ResponseEntity;
 
 import java.util.List;
 

@@ -1,8 +1,8 @@
-package com.example.SecurityPractise.service;
+package com.example.SecurityPractiseFormLogin.service;
 
-import com.example.SecurityPractise.exception.InvalidUserException;
-import com.example.SecurityPractise.model.User;
-import com.example.SecurityPractise.repo.UserRepository;
+import com.example.SecurityPractiseFormLogin.exception.InvalidUserException;
+import com.example.SecurityPractiseFormLogin.model.User;
+import com.example.SecurityPractiseFormLogin.repo.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

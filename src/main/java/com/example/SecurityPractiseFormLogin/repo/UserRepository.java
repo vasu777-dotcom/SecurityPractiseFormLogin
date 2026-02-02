@@ -1,6 +1,6 @@
-package com.example.SecurityPractise.repo;
+package com.example.SecurityPractiseFormLogin.repo;
 
-import com.example.SecurityPractise.model.User;
+import com.example.SecurityPractiseFormLogin.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

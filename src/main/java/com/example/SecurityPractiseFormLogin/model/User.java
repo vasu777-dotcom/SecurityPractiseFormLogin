@@ -1,6 +1,6 @@
-package com.example.SecurityPractise.model;
+package com.example.SecurityPractiseFormLogin.model;
 
-import com.example.SecurityPractise.util.GeneratedVasuId;
+import com.example.SecurityPractiseFormLogin.util.GeneratedVasuId;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotEmpty;

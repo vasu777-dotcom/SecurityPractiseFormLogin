@@ -1,6 +1,6 @@
-package com.example.SecurityPractise.service;
+package com.example.SecurityPractiseFormLogin.service;
 
-import com.example.SecurityPractise.model.User;
+import com.example.SecurityPractiseFormLogin.model.User;
 //import com.example.SecurityPractise.model.UserDetails;
 
 public interface UserService {

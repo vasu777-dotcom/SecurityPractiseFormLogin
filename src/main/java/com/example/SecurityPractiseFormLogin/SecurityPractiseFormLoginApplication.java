@@ -1,4 +1,4 @@
-package com.example.SecurityPractise;
+package com.example.SecurityPractiseFormLogin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 @SpringBootApplication
-public class SecurityPractiseApplication {
+public class SecurityPractiseFormLoginApplication {
 
 	@Bean
 	public BCryptPasswordEncoder passwordEncoder() {
@@ -14,7 +14,7 @@ public class SecurityPractiseApplication {
 	}
 
 	public static void main(String[] args) {
-		SpringApplication.run(SecurityPractiseApplication.class, args);
+		SpringApplication.run(SecurityPractiseFormLoginApplication.class, args);
 	}
 
 }

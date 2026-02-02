@@ -1,4 +1,4 @@
-package com.example.SecurityPractise.util;
+package com.example.SecurityPractiseFormLogin.util;
 
 import org.hibernate.engine.spi.SharedSessionContractImplementor;
 import org.hibernate.id.IdentifierGenerator;

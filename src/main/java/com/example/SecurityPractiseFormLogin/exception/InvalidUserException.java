@@ -1,4 +1,4 @@
-package com.example.SecurityPractise.exception;
+package com.example.SecurityPractiseFormLogin.exception;
 
 public class InvalidUserException extends RuntimeException{
 

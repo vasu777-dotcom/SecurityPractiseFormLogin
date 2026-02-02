@@ -1,4 +1,4 @@
-package com.example.SecurityPractise.config;
+package com.example.SecurityPractiseFormLogin.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

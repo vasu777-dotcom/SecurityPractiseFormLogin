@@ -1,7 +1,7 @@
-package com.example.SecurityPractise.exception;
+package com.example.SecurityPractiseFormLogin.exception;
 
-import com.example.SecurityPractise.model.ErrorDto;
-import com.example.SecurityPractise.model.ResponseDto;
+import com.example.SecurityPractiseFormLogin.model.ErrorDto;
+import com.example.SecurityPractiseFormLogin.model.ResponseDto;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
